@@ -2,7 +2,7 @@
 
 Meu nome é Brendo Andrade
 
-- Estou estudando na alura
+- Estou estudando na [alura](https://www.alura.br)
 - Estou me desenvolovendo na linguagem Javascript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
